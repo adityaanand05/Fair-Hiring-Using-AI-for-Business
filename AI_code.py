@@ -28,7 +28,7 @@ def read_resume(file_path):
         else:
             return "❌ Error: Unsupported file format. Use .txt, .pdf, or .docx"
     except Exception as e:
-        return f"⚠️ Error reading resume: {e}"
+        return f"⚠️ Error reading resume or cv: {e}"
     
 '''Input:
 - Resume PDF Text: {{resume_text}}
