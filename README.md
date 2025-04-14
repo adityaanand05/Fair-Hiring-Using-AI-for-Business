@@ -7,9 +7,9 @@ A smart, ethical hiring assistant powered by AI. This project streamlines the re
 
 Upload and parse PDF resumes
 
-Compare resumes with job descriptions using AI (Mistral via Hugging Face)
+Compare resumes with job descriptions using AI (Mistral )
 
-Intelligent eligibility evaluation using LangChain
+Intelligent eligibility evaluation using Ollama
 
 Personalized guidance for candidates
 
