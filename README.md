@@ -1,8 +1,9 @@
-🧠 Fair Hiring Using AI for Business
+
+# 🧠 Fair Hiring Using AI for Business
 
 A smart, ethical hiring assistant powered by AI. This project streamlines the recruitment process by analyzing resumes and matching candidates to job descriptions — all while ensuring fairness, transparency, and bias-free evaluation.
 
-🔍 Features:
+## 🔍 Features:
 
 Upload and parse PDF resumes
 
@@ -14,11 +15,11 @@ Personalized guidance for candidates
 
 Modern frontend with built-in career guidance chatbot
 
-Flask backend with secure PDF handling
+Django backend with secure PDF handling
 
 No reliance on LinkedIn or external profiles
 
-🔧 Tech Stack:
+## 🔧 Tech Stack:
 
 Python, Django
 
@@ -30,5 +31,72 @@ Chatbot integration
 
 MySQL (user and resume data)
 
-🚀 Use Case: Ideal for HR departments, startups, and businesses seeking a fair, AI-powered hiring tool that prioritizes candidate skills, projects, and experience over biases.
+## 🚀 Use Case: 
+Ideal for HR departments, startups, and businesses seeking a fair, AI-powered hiring tool that prioritizes candidate skills, projects, and experience over biases.
+
+
+## 🐍Run AI Locally
+
+Install Ollama from 
+
+```bash
+  https://ollama.com/
+```
+Install LLM in Terminal 
+
+```bash
+  ollama run mistral
+```
+
+Clone the project
+
+```bash
+  git clone https://github.com/adityaanand05/Fair-Hiring-Using-AI-for-Business.git
+```
+
+Go to the project directory
+
+```bash
+  cd Fair-Hiring-Using-AI-for-Business
+```
+
+Install dependencies
+
+```bash
+  pip install ollama pdfplumber python-docx 
+```
+
+Start the server
+
+```bash
+  python3 -u "Your .py File Path"
+```
+
+
+## 🚀 About Us
+We are Engineering Students at Netaji Subhash Engineering College.
+
+
+## 🔗 Connect With Us
+
+### Aditya Anand
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adityaanand05.github.io/Profile/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaanand05?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqfFyqcfZTROM0RPuhKxRYg%3D%3D)
+
+### Shubham Barnwal
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-barnwal-b598a732a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Boq18qAH3QWOMRsfkIn7Qig%3D%3D)
+
+### Ayushi Bharti
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
+### Harsh Bhardwaj
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
+### Meghna
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
