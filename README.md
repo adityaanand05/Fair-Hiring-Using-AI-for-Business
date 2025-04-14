@@ -19,9 +19,9 @@ No reliance on LinkedIn or external profiles
 
 🔧 Tech Stack:
 
-Python, Flask
+Python, Django
 
-LangChain, Hugging Face (Mistral)
+Ollama
 
 HTML/CSS/JS frontend
 
