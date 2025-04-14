@@ -1,4 +1,5 @@
 🧠 Fair Hiring Using AI for Business
+
 A smart, ethical hiring assistant powered by AI. This project streamlines the recruitment process by analyzing resumes and matching candidates to job descriptions — all while ensuring fairness, transparency, and bias-free evaluation.
 
 🔍 Features:
