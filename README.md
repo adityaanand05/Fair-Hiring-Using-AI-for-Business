@@ -66,7 +66,7 @@ Install dependencies
   pip install ollama pdfplumber python-docx 
 ```
 
-Start the server
+Test Your CV or Resume
 
 ```bash
   python3 -u "Your .py File Path"
