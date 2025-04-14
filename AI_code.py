@@ -11,19 +11,19 @@ def read_resume(file_path):
                 text = ""
                 for page in pdf.pages:
                     text += page.extract_text() or ""
-                print("📄 Bhai, resume text nikal gaya:", text[:100])  # Debug
+                print("📄 Text has been Extrected from REsume or CV:", text[:100])  # Debug
                 return text
         elif file_path.lower().endswith('.docx'):
             doc = Document(file_path)
             text = ""
             for para in doc.paragraphs:
                 text += para.text + "\n"
-            print("📄 Bhai, resume text nikal gaya:", text[:100])
+            print("📄 Text has been Extrected from REsume or CV:", text[:100])
             return text
         elif file_path.lower().endswith('.txt'):
             with open(file_path, 'r', encoding='utf-8') as file:
                 text = file.read()
-            print("📄 Bhai, resume text nikal gaya:", text[:100])
+            print("📄 Text has been Extrected from REsume or CV:", text[:100])
             return text
         else:
             return "❌ Error: Unsupported file format. Use .txt, .pdf, or .docx"
@@ -71,14 +71,14 @@ Be accurate, kind, and focused on growth.
 job_desc = "Requires: Python 🐍, Machine Learning 🤖, 2 years AI/ML experience 👨‍💻"
 
 # Resume Upload ka Logic
-print("📂 Bhai, apna resume ka file path daal (jaise 'C:/path/to/resume.pdf' ya '.docx'):")
+print("📂 Paste Your File Path Here (Like 'C:/path/to/resume.pdf' ya '.docx'):")
 resume_file_path = input("📝 Resume file path: ")
 resume = read_resume(resume_file_path)
 
 if "Error" not in resume:
     # Generate Prompt
     prompt = generate_prompt(resume, job_desc)
-    print("⚙️  Bhai, model se result mang raha hoon... 🤖")
+    print("⚙️  Taking result from Model... 🤖")
 
     # Call Ollama Directly
     try:
@@ -93,6 +93,6 @@ if "Error" not in resume:
         )
         print("🧾 Result:\n", response['response'])
     except Exception as e:
-        print(f"❗ Error aaya bhai: {e}")
+        print(f"❗ Error: {e}")
 else:
     print(resume)
