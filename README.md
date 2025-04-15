@@ -35,7 +35,7 @@ MySQL (user and resume data)
 Ideal for HR departments, startups, and businesses seeking a fair, AI-powered hiring tool that prioritizes candidate skills, projects, and experience over biases.
 
 ## WorkFlow
-![Screenshot](./Workflow/workflow.png)
+![Workflow](./Workflow/workflow.png)
 
 ## 🐍Run AI Locally
 
