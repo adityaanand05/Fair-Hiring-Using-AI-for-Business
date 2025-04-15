@@ -34,6 +34,9 @@ MySQL (user and resume data)
 ## 🚀 Use Case: 
 Ideal for HR departments, startups, and businesses seeking a fair, AI-powered hiring tool that prioritizes candidate skills, projects, and experience over biases.
 
+## WorkFlow
+![App Screenshot](https://drive.google.com/file/d/1D3DtsFinCUuQ_mErUY-c-aV7VAz6LZkd/view?usp=sharing)
+
 
 ## 🐍Run AI Locally
 
