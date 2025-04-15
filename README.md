@@ -101,8 +101,12 @@ We are Engineering Students at Netaji Subhash Engineering College.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
+<<<<<<< HEAD
 ### Meghna
 [GitHub Profile](https://github.com/Meghna-De)
+=======
+### Meghna De
+>>>>>>> 92564774f31baa0fcd38693f730a6bb5da6c7f5b
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghna-de-445241324?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvkBN%2FDH5TvyHVKvOjJKkgA%3D%3D)
 
