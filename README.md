@@ -102,7 +102,7 @@ We are Engineering Students at Netaji Subhash Engineering College.
 ### Harsh Bhardwaj
 [GitHub Profile](https://github.com/harshfuran)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-bhardwaj-689b0b262?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9OKbKD%2FHRDyfs6tscnAiEQ%3D%3D)
 
 ### Meghna De
 [GitHub Profile](https://github.com/Meghna-De)
