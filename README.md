@@ -36,7 +36,7 @@ Ideal for HR departments, startups, and businesses seeking a fair, AI-powered hi
 
 ## ✍️WorkFlow
 
-![Workflow](./Workflow/workflow.png){width=600px}
+<img src="./Workflow/workflow.png" width="600" alt="Workflow">
 
 ## 🐍Run AI Locally
 
