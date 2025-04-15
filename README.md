@@ -82,21 +82,27 @@ We are Engineering Students at Netaji Subhash Engineering College.
 ### Aditya Anand
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adityaanand05.github.io/Profile/)
 
+[GitHub Profile](https://github.com/adityaanand05)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaanand05?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqfFyqcfZTROM0RPuhKxRYg%3D%3D)
 
 ### Shubham Barnwal
+[GitHub Profile](https://github.com/Mrbarnwal)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-barnwal-b598a732a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Boq18qAH3QWOMRsfkIn7Qig%3D%3D)
 
 ### Ayushi Bharti
+[GitHub Profile](https://github.com/Ayushi-Bharti)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ### Harsh Bhardwaj
+[GitHub Profile](https://github.com/harshfuran)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ### Meghna
+[GitHub Profile](https://github.com/Meghna-De)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
