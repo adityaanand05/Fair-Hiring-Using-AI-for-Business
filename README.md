@@ -66,7 +66,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  pip install ollama pdfplumber python-docx 
+  pip install -r requirments.txt
 ```
 
 Test Your CV or Resume

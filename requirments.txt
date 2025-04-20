@@ -1,0 +1,8 @@
+ollama
+
+django
+
+pdfplumber
+
+python-docx 
+
