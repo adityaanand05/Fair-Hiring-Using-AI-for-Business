@@ -97,7 +97,7 @@ We are Engineering Students at Netaji Subhash Engineering College.
 ### Ayushi Bharti
 [GitHub Profile](https://github.com/Ayushi-Bharti)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/ayushi-bharti-032570324?trk=people-guest_people_search-card)
 
 ### Harsh Bhardwaj
 [GitHub Profile](https://github.com/harshfuran)
