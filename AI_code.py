@@ -10,10 +10,6 @@ def read_resume(file_path):
                 text = ""
                 for page in pdf.pages:
                     text += page.extract_text() or ""
-<<<<<<< HEAD
-=======
-                print("📄 Text has been Extrected from Resume or CV:", text[:100])  # Debug
->>>>>>> e60a0c3227e37c11e8dfde6b1fc87db1253aa365
                 return text
         elif file_path.lower().endswith('.docx'):
             doc = Document(file_path)
