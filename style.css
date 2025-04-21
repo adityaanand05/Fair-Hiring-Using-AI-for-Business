@@ -11,8 +11,8 @@ h1{
 }
 
 body {
-     /* background-color:#cddafd ;  */
-     background-image: url("https://st3.depositphotos.com/30662096/35586/i/450/depositphotos_355866870-stock-photo-sky-blue-paper-background-texture.jpg");
+      /* background-color:#4392f1 ;   */
+      background-image: url("https://st3.depositphotos.com/30662096/35586/i/450/depositphotos_355866870-stock-photo-sky-blue-paper-background-texture.jpg"); 
     background-size : cover;
     min-height: 100vh;
     display: flex;
