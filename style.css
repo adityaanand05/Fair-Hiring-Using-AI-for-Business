@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    background-color: #f1f1f1;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: #0077b6;
+    border:20% ;
+    margin-bottom:20px ;
+}
+
+body {
+     /* background-color:#cddafd ;  */
+     background-image: url("https://st3.depositphotos.com/30662096/35586/i/450/depositphotos_355866870-stock-photo-sky-blue-paper-background-texture.jpg");
+    background-size : cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main{ 
+    text-align: center; 
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    justify-content: center;
+}     
+form{
+    height: 200px;
+    width: 200; 
+    margin:10px;
+}
+
+#username{
+    margin: 10px;
+    
+}
+#email{
+    margin: 10px;
+    border-color: #219ebc ;
+    
+}
+#pw{
+    margin: 10px;
+    border-color: #219ebc ;
+   
+}
+#repeat-password{
+    margin: 10px;
+}
+button{
+    margin: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform : uppercase;
+    background-color: #0077b6;
+    color: whitesmoke;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 15%;
+    padding-right: 15%;
+    font-weight: bold;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
