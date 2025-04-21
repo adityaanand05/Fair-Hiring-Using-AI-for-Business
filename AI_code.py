@@ -49,7 +49,7 @@ def analyze_resume(file_path, job_desc):
         prompt = generate_prompt(resume, job_desc)
         try:
             response = ollama.generate(
-                model="mistral",
+                model="mistral:latest",
                 prompt=prompt,
                 options={
                     "temperature": 0.5,
